@@ -8,7 +8,7 @@
    <img src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3512738235,3373857725&fm=26&gp=0.jpg"/>
   </div>
 </template>
-
+Switched to branch 'newbranch'
 <script>
 import HelloWorld from './components/HelloWorld'
 
